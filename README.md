@@ -34,7 +34,7 @@ Make sure you have the necessary libraries installed by running:
 
 ```bash
 pip install -r requirements.txt
-
+``` 
 
 ## Author
 
